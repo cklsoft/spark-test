@@ -14,4 +14,4 @@ export EXEC_JAR=$SPARK_HOME/sc.jar
  --num-workers 1 \
  --master-memory 512m \
  --worker-memory 512m \
- --worker-cores 1 \
+ --worker-cores 1
